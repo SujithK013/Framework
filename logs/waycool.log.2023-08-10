@@ -1,0 +1,96 @@
+2023-08-10 16:09:55.821 [main] [INFO ]: URL is opened
+ 2023-08-10 16:09:59.146 [main] [INFO ]: Username Entered
+ 2023-08-10 16:09:59.296 [main] [INFO ]: Password Entered
+ 2023-08-10 16:10:00.405 [main] [INFO ]: Clicked on Submit button
+ 2023-08-10 16:10:00.436 [main] [INFO ]: Guru99 Bank Manager HomePage
+ 2023-08-10 16:10:01.456 [main] [INFO ]: TC Passed
+ 2023-08-10 16:28:26.433 [main] [INFO ]: URL is opened
+ 2023-08-10 16:28:29.752 [main] [INFO ]: Username Entered
+ 2023-08-10 16:28:29.941 [main] [INFO ]: Password Entered
+ 2023-08-10 16:28:31.742 [main] [INFO ]: Clicked on Submit button
+ 2023-08-10 16:28:31.812 [main] [INFO ]: Guru99 Bank Manager HomePage
+ 2023-08-10 16:28:32.846 [main] [INFO ]: TC Passed
+ 2023-08-10 16:49:58.338 [main] [INFO ]: URL is opened
+ 2023-08-10 16:50:01.472 [main] [INFO ]: Username Entered
+ 2023-08-10 16:50:01.544 [main] [INFO ]: Password Entered
+ 2023-08-10 16:50:03.345 [main] [INFO ]: Clicked on Submit button
+ 2023-08-10 16:50:03.354 [main] [INFO ]: Guru99 Bank Manager HomePage
+ 2023-08-10 16:50:04.376 [main] [INFO ]: TC Passed
+ 2023-08-10 16:53:45.858 [main] [INFO ]: URL is opened
+ 2023-08-10 16:53:49.015 [main] [INFO ]: Username Entered
+ 2023-08-10 16:53:49.109 [main] [INFO ]: Password Entered
+ 2023-08-10 16:53:50.739 [main] [INFO ]: Clicked on Submit button
+ 2023-08-10 16:53:50.749 [main] [INFO ]: Guru99 Bank Manager HomePage
+ 2023-08-10 16:53:51.761 [main] [INFO ]: TC Passed
+ 2023-08-10 17:07:45.034 [main] [INFO ]: URL is opened
+ 2023-08-10 17:07:48.223 [main] [INFO ]: Username Entered
+ 2023-08-10 17:07:48.325 [main] [INFO ]: Password Entered
+ 2023-08-10 17:07:49.982 [main] [INFO ]: Clicked on Submit button
+ 2023-08-10 17:07:49.991 [main] [INFO ]: Guru99 Bank Manager HomePage
+ 2023-08-10 17:55:01.245 [main] [INFO ]: user name provided
+ 2023-08-10 17:55:01.440 [main] [INFO ]: password provided
+ 2023-08-10 17:55:06.645 [main] [INFO ]: Login passed
+ 2023-08-10 17:55:13.790 [main] [INFO ]: user name provided
+ 2023-08-10 17:55:13.905 [main] [INFO ]: password provided
+ 2023-08-10 17:55:20.105 [main] [INFO ]: user name provided
+ 2023-08-10 17:55:20.315 [main] [INFO ]: password provided
+ 2023-08-10 17:55:25.415 [main] [INFO ]: Login passed
+ 2023-08-10 17:55:31.955 [main] [INFO ]: user name provided
+ 2023-08-10 17:55:32.085 [main] [INFO ]: password provided
+ 2023-08-10 17:55:37.895 [main] [INFO ]: user name provided
+ 2023-08-10 17:55:38.025 [main] [INFO ]: password provided
+ 2023-08-10 17:55:42.275 [main] [INFO ]: Login passed
+ 2023-08-10 18:57:45.866 [main] [INFO ]: user name provided
+ 2023-08-10 18:57:45.942 [main] [INFO ]: password provided
+ 2023-08-10 18:57:50.036 [main] [INFO ]: Login passed
+ 2023-08-10 18:57:56.787 [main] [INFO ]: user name provided
+ 2023-08-10 18:57:56.852 [main] [INFO ]: password provided
+ 2023-08-10 18:58:31.170 [main] [INFO ]: User name is provided
+ 2023-08-10 18:58:31.238 [main] [INFO ]: Passsword is provided
+ 2023-08-10 18:58:35.502 [main] [INFO ]: providing customer details....
+ 2023-08-10 18:58:49.185 [main] [INFO ]: validation started....
+ 2023-08-10 19:01:00.983 [main] [INFO ]: User name is provided
+ 2023-08-10 19:01:01.061 [main] [INFO ]: Passsword is provided
+ 2023-08-10 19:01:05.303 [main] [INFO ]: providing customer details....
+ 2023-08-10 19:01:19.523 [main] [INFO ]: validation started....
+ 2023-08-10 19:01:22.556 [main] [INFO ]: test case passed....
+ 2023-08-10 20:15:41.754 [main] [INFO ]: User name is provided
+ 2023-08-10 20:15:41.867 [main] [INFO ]: Passsword is provided
+ 2023-08-10 20:15:47.413 [main] [INFO ]: providing customer details....
+ 2023-08-10 20:16:00.466 [main] [INFO ]: validation started....
+ 2023-08-10 20:16:03.498 [main] [INFO ]: test case passed....
+ 2023-08-10 21:02:23.431 [main] [INFO ]: User name is provided
+ 2023-08-10 21:02:23.530 [main] [INFO ]: Passsword is provided
+ 2023-08-10 21:02:27.964 [main] [INFO ]: providing customer details....
+ 2023-08-10 21:02:42.055 [main] [INFO ]: validation started....
+ 2023-08-10 21:02:45.096 [main] [INFO ]: test case passed....
+ 2023-08-10 21:13:11.846 [main] [INFO ]: User name is provided
+ 2023-08-10 21:13:12.002 [main] [INFO ]: Passsword is provided
+ 2023-08-10 21:13:16.461 [main] [INFO ]: providing customer details....
+ 2023-08-10 21:13:32.771 [main] [INFO ]: validation started....
+ 2023-08-10 21:13:35.808 [main] [INFO ]: test case passed....
+ 2023-08-10 21:56:24.241 [main] [INFO ]: User name is provided
+ 2023-08-10 21:56:24.335 [main] [INFO ]: Passsword is provided
+ 2023-08-10 21:56:29.945 [main] [INFO ]: providing customer details....
+ 2023-08-10 21:56:44.396 [main] [INFO ]: validation started....
+ 2023-08-10 21:56:47.434 [main] [INFO ]: test case passed....
+ 2023-08-10 22:41:31.695 [main] [INFO ]: User name is provided
+ 2023-08-10 22:41:31.772 [main] [INFO ]: Passsword is provided
+ 2023-08-10 22:41:36.014 [main] [INFO ]: providing customer details....
+ 2023-08-10 22:41:51.030 [main] [INFO ]: validation started....
+ 2023-08-10 22:42:48.806 [main] [INFO ]: User name is provided
+ 2023-08-10 22:42:48.877 [main] [INFO ]: Passsword is provided
+ 2023-08-10 22:42:54.796 [main] [INFO ]: providing customer details....
+ 2023-08-10 22:43:09.066 [main] [INFO ]: validation started....
+ 2023-08-10 22:43:12.105 [main] [INFO ]: test case passed....
+ 2023-08-10 22:43:29.978 [main] [INFO ]: User name is provided
+ 2023-08-10 22:43:30.085 [main] [INFO ]: Passsword is provided
+ 2023-08-10 22:43:34.576 [main] [INFO ]: providing customer details....
+ 2023-08-10 22:43:49.490 [main] [INFO ]: validation started....
+ 2023-08-10 22:43:52.506 [main] [INFO ]: test case passed....
+ 2023-08-10 23:58:52.787 [main] [INFO ]: URL is opened
+ 2023-08-10 23:58:55.958 [main] [INFO ]: Username Entered
+ 2023-08-10 23:58:56.109 [main] [INFO ]: Password Entered
+ 2023-08-10 23:58:57.206 [main] [INFO ]: Clicked on Submit button
+ 2023-08-10 23:58:57.226 [main] [INFO ]: Guru99 Bank Manager HomePage
+ 

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Framework" duration-ms="29368" started-at="2023-08-10T17:12:43Z" finished-at="2023-08-10T17:13:12Z">
+    <groups>
+    </groups>
+    <test name="BankingApp Test" duration-ms="29368" started-at="2023-08-10T17:12:43Z" finished-at="2023-08-10T17:13:12Z">
+      <class name="com.framework.testCases.TC_AddCstmr_03">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.framework.testCases.TC_AddCstmr_03@4973813a]" name="setUp" is-config="true" duration-ms="5088" started-at="2023-08-10T22:42:43Z" finished-at="2023-08-10T22:42:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.framework.testCases.TC_AddCstmr_03@4973813a]" name="addNewCustomer" duration-ms="23428" started-at="2023-08-10T22:42:48Z" finished-at="2023-08-10T22:43:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.framework.testCases.TC_AddCstmr_03@4973813a]" name="tearDown" is-config="true" duration-ms="661" started-at="2023-08-10T22:43:12Z" finished-at="2023-08-10T22:43:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.framework.testCases.TC_AddCstmr_03 -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- Framework -->
+</testng-results>

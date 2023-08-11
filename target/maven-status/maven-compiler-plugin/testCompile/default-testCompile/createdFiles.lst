@@ -1,0 +1,9 @@
+com\framework\pageObjects\LoginPage.class
+com\framework\utilitites\ReadConfig.class
+com\framework\testCases\TC_Login_01.class
+com\framework\testCases\TC_LoginDDT_02.class
+com\framework\utilitites\Reporting.class
+com\framework\utilitites\XLUtils.class
+com\framework\testCases\TC_AddCstmr_03.class
+com\framework\pageObjects\AddCustomerPage.class
+com\framework\testCases\BaseClass.class
